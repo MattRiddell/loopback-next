@@ -604,6 +604,10 @@ children:
   output: 'web, pdf'
   children:
 
+  - title: 'Project Layout Reference'
+    url: Project-layout-reference.html
+    output: 'web, pdf'
+
   - title: 'Examples'
     url: Examples.html
     output: 'web, pdf'
